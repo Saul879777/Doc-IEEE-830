@@ -1,0 +1,25 @@
+Caso de uso 3  “Agregar carta de asignación al expediente”.
+Narrativa
+Agrega la carta de asignación a expediente: El maestro va con el coordinador a recoger la carta de asignación, revisar además de revisar que está elaborada de manera correcta y este en línea (firmada por las personas correspondientes, sin errores, y en buen estado). Después de asegurarse de que este en perfecto estado se agrega al expediente.
+
+Actor primario: Maestro.
+Stakeholders e intereses:
+Maestro: Tener en orden el expediente. 
+Coordinación: Que los expedientes estén completos, además de tener a los alumno asignados a las dependencias.
+Dependencia: Los alumnos que tengan cartas de asignación de sus dependencias serán quienes harán su servicio social  en la dependencia.
+
+Nivel: Meta del maestro
+Pre-Condiciones: tener la sesión abierta dentro del sistema
+Garantía mínima: acceder a las opciones del alumno.
+Garantía de éxito: Tener las cartas de asignación de todos los alumnos en tiempo y forma dentro de los expedientes.
+Caso de éxito principal:
+1.- En la opción pulsar el nombre para desglosar un listado de los estudiantes,
+2.- Pulsar el nombre del estudiante para seleccionarlo
+3.-Pulsar el botón de ”OK” para abrir las opciones de alumno.
+4.-El maestro selecciona la opción de subir un archivo pulsando la opción de “Subir archivo”.
+5.-El maestro seleccionara el archivo que desea subir en la ventana emergente de “seleccione archivo”
+6.- Al tener seleccionado el archivo pulsara el botón con el icono de subir archivo.
+7.-El sistema pide una confirmación para subir el archivo.
+	7.1.- Pulsar el botón “si” el archivo se subirá.
+	7.2.- Pulsar el botón “no” la ventana se cerrara y no se subirá el archivo.
+
