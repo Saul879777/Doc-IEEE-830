@@ -1,5 +1,4 @@
-# Doc-IEEE-830
-Documento para la especificacion de requerimientos
+Narrativas
 Alumno
 Registrar asistencia: En esta actividad una vez que el alumno  llega a la dependencia, registra la hora exacta en la que comienza sus actividades y termina de realizar actividades en la dependencia, ya sea mediante un checador, o algún otro método.
 Consultar actividades: El alumno revisara las actividades que llevara a cabo dentro de la dependencia a lo largo de su servicio social y el documento que especifica las actividades lo firmara tanto la dependencia como el alumno.
@@ -9,6 +8,7 @@ Generar reporte de presentación en clase: El alumno generara su reporte de pres
 Firmar formato de registro: La coordinación provee el formato de registro al alumno y será firmado por el alumno y el responsable de la dependencia.
 Selección de opciones de SS: El alumno ingresara a la aplicación que provee la facultad para escoger 3 opciones de dependencias a las cuales prefiera.
 
+Narrativas extendidas
 Selección de opciones de SS: El alumno ingresara a la aplicación que provee la facultad para escoger 3 opciones de dependencias a las cuales prefiera.
 Actor primario: Alumno
 Alcance:
